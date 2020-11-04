@@ -1,3 +1,8 @@
+/**
+ * @author Ahmed Butt, StudentID: 100770449
+ * @version 0.0.1
+ */
+
 package ca.durhamcollege;
 
 public class Main
